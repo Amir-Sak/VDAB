@@ -1,4 +1,5 @@
 "Dankzij deze opleiding heb ik een diepgaand begrip ontwikkeld van SQL en zijn toepassingen in databasemanagement. Ik heb geleerd hoe ik databases kan opzetten, gegevens kan manipuleren, complexe query's kan schrijven en database-integriteit kan handhaven. Daarnaast heb ik vaardigheden verworven in het werken met meerdere tabellen, het beheren van tabellen en relaties, en het gebruik van views om gegevens te visualiseren en te analyseren.
+
 Presentatie:
 
 Slide 1: Introductie
